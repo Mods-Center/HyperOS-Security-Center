@@ -1,5 +1,6 @@
 # HyperOS Security Center
-![image](https://github.com/Mods-Center/HyperOS-Security/assets/83476983/4c8541fb-b17b-4be6-83fd-3d15f01e2320)
+![Picsart_24-08-03_08-23-27-960](https://github.com/user-attachments/assets/03b1e5ee-f062-4666-8fcc-de4f9deda9c7)
+
 HyoerOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Download
@@ -11,15 +12,16 @@ HyoerOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 - Enjoy!
 
 ### Changelog
-- Implemented a new Scanning UI
+- Added new app info page ui along with new functions 
 - Enabled gunsight functionality for all games
-- Increased the number of quick access apps
+- Removed restriction of wifi access management for system apps
+- Enabled various video and game turbo features 
 - Removed the 10s countdown
-- Display battery temperature in digits
 - Unlocked Video Toolbox features with user choice
-- Enabled Shutdown Confirmation
-- Introduced Disable button in app info page
 - And more...
+
+### Important:
+- Mod is originally for Cn roms only [Reason](https://t.me/cringe_screenshots/346) but it can be used in Xiaomi Eu roms as well.
 
 ### Note
 - Users with Global/CN ROMs based on Android 13 or above are required to flash this [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) module first
