@@ -13,9 +13,9 @@ HyoerOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 - Enjoy!
 
 ### Changelog
-- New functions in app info page
-- Useless switches and functions have been removed compared to previous version 
-- Added blurred UI for game turbo
+- Updated version of security app
+- Added few new functions
+- Added blur switch for game turbo
 - Removed restriction of wifi access management for system apps
 - Added true daily data usage toggle 
 - Removed the 10s countdown
