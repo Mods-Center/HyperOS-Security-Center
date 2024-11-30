@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/a7e3e65d-07f5-4a88-823e-e133c4254e7c)
 
 
-HyoerOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
+HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Download
 - Download from the [releases page](https://github.com/Mods-Center/HyperOS-Security-Center/releases)
