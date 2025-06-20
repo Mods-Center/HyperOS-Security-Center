@@ -1,6 +1,5 @@
 # HyperOS Security Center
-![Picsart_24-11-30_11-13-18-034](https://github.com/user-attachments/assets/6f8779d9-4488-4394-b7f2-7751662ea434)
-
+![Picsart_25-06-20_11-21-18-982](https://github.com/user-attachments/assets/765488f5-1d94-4435-aa47-2772d1d32e7f)
 
 
 HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
@@ -14,17 +13,12 @@ HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 - Enjoy!
 
 ### Changelog
-- Updated version of security app
-- Added few new functions
-- Added blur switch for game turbo
+- Improved functions in app info page
 - Removed restriction of wifi access management for system apps
-- Added true daily data usage toggle 
-- Removed the 10s countdown
+- Unlocked FBO
+- Removed the Root detection service
 - Removed sim or Xiaomi account dependency 
-- And more...
-
-### Important:
-- It is mandatory to clean package cache while updating security app via module or directly .
+- Rest is same as previous version of mod
 
 ### Note
-- Users with Global/CN ROMs based on Android 13 or above are required to flash this [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) module first
+- Users with Global/CN ROMs based on Android 14 or above are required to disable apk vertification first.
