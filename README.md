@@ -13,7 +13,10 @@ HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 - Enjoy!
 
 ### Changelog
-- Improved functions in app info page
+- Added media function in game turbo
+- Enabled incognito tile for global users
+- Hide apps function can hide system apps as well
+- Added screen battery consumption, and new information in battery section
 - Removed restriction of wifi access management for system apps
 - Unlocked FBO
 - Removed the Root detection service
