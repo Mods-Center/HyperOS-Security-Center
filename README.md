@@ -1,5 +1,6 @@
 # HyperOS Security Center
-![Picsart_25-06-20_11-21-18-982](https://github.com/user-attachments/assets/765488f5-1d94-4435-aa47-2772d1d32e7f)
+<img width="4096" height="2019" alt="Picsart_25-10-08_22-55-18-120" src="https://github.com/user-attachments/assets/f0c9538a-6ef8-4579-af81-600ff0a44a2a" />
+
 
 
 HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
