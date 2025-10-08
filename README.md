@@ -1,5 +1,6 @@
 # HyperOS Security Center
-<img width="4096" height="2019" alt="Picsart_25-10-08_22-55-18-120" src="https://github.com/user-attachments/assets/f0c9538a-6ef8-4579-af81-600ff0a44a2a" />
+<img width="3264" height="1632" alt="20251008_230242" src="https://github.com/user-attachments/assets/6e58a589-b990-4c3c-ad7d-f1805e048375" />
+
 
 
 
