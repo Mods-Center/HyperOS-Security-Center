@@ -1,5 +1,6 @@
 # HyperOS Security Center
-<img width="3264" height="1632" alt="20251008_230242" src="https://github.com/user-attachments/assets/6e58a589-b990-4c3c-ad7d-f1805e048375" />
+<img width="2171" height="1220" alt="Picsart_26-04-17_15-42-02-606" src="https://github.com/user-attachments/assets/8ab7acd5-da33-4174-8eb2-e308134ee237" />
+
 
 
 
@@ -7,13 +8,16 @@
 HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Screenshots
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-43-50-716_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/6310c688-76aa-42c9-a716-a494ab893013" />
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-04-19-944_com miui home-edit" src="https://github.com/user-attachments/assets/d471ede6-0499-4c44-b1e0-22fcc81dc83b" />
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-02-56-341_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/2555508c-f5f2-4cd1-afad-4abbe208d106" />
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-04-08-597_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/76263ce5-61c4-4e03-b95c-002d9e1e106a" />
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-02-47-778_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/fdb132f5-ca57-416e-8ddb-9a31ac431eb4" />
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-02-10-707_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/9b5a51e3-00c0-4860-9415-1a1b0e9d62c5" />
-<img width="1308" height="2813" alt="Screenshot_2025-10-08-17-02-33-191_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/b03068be-b8b8-4acd-bae7-06dc0d798a37" />
+<img width="1308" height="2813" alt="Screenshot_2026-04-17-15-41-11-464_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/d01c1b87-b0b1-45c5-943f-b18aa1032f3f" />
+<img width="2712" height="1220" alt="Screenshot_2026-04-17-15-38-49-202_com netflix NGP WWE2K" src="https://github.com/user-attachments/assets/e6a42121-bce6-4dc7-acf1-f95341bb6566" />
+<img width="2712" height="1220" alt="Screenshot_2026-04-17-15-38-07-966_com netflix NGP WWE2K" src="https://github.com/user-attachments/assets/e0222871-85ca-426a-8176-a032d502c165" />
+<img width="1308" height="2813" alt="Screenshot_2026-04-17-15-37-42-856_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/56220df6-6d17-4b17-b4b4-45bb4b8f8737" />
+<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-59-00-098_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/f4a268b8-a882-4f6f-b6fa-e4f01515128e" />
+<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-07-29-997_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/a9bd6d34-45df-429e-b11d-b8009ddb51bb" />
+<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-07-11-998_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/7031319c-6443-46ff-8ffc-244a34dc29fd" />
+<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-06-56-618_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/11d48360-07fd-42e0-bbe8-767e69956448" />
+<img width="1308" height="3203" alt="Screenshot_2026-04-16-10-04-57-055_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/f1eeb3a8-3a7a-4dd0-a38b-796d0c23be6f" />
+
 
 
 ### Download
