@@ -1,5 +1,5 @@
 # HyperOS Security Center
-<img width="2171" height="1220" alt="Picsart_26-08-14_08-32-32-148" src="https://github.com/user-attachments/assets/f989aa3e-a602-46d9-bd11-b1015fa6f3f3" />
+<img width="2171" height="1220" alt="1001119530" src="https://github.com/user-attachments/assets/2208c700-c5d1-4128-86a2-508d73ff1a01" />
 
 
 
@@ -9,15 +9,26 @@
 HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Screenshots
-<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-06-56-618_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/d5321dbb-6ad9-4fb9-84e9-c42fd769226d" />
-<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-04-57-055_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/a9748f06-55e5-4c5d-b1ef-b95a46ad2358" />
-<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-07-11-998_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/d1db1a5f-ed8a-43a5-8f3c-474a9c5a1723" />
-<img width="1308" height="2813" alt="Screenshot_2026-04-16-10-07-29-997_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/54ebc3c1-b5cb-478f-b046-d1ef9796d5bf" />
-<img width="1308" height="2813" alt="Screenshot_2026-08-14-08-13-38-625_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/60c94fc8-520a-426e-9244-5ece0f6a1e1c" />
-<img width="2712" height="1220" alt="Screenshot_2026-08-14-08-14-32-328_com pubg imobile" src="https://github.com/user-attachments/assets/e83abefb-3267-476a-a11a-67224bb5a315" />
-<img width="2712" height="1220" alt="Screenshot_2026-08-14-08-14-36-082_com pubg imobile" src="https://github.com/user-attachments/assets/10e5cd9e-80bc-422a-aa09-599629f8ab38" />
+<img width="1308" height="2813" alt="1001119537" src="https://github.com/user-attachments/assets/d8829d98-0b0c-44ab-959b-284213af5dd4" />
+<img width="1184" height="2547" alt="1001119516" src="https://github.com/user-attachments/assets/a990de79-2c80-4545-8ffb-6525c2e98822" />
+<img width="1184" height="2547" alt="1001119519" src="https://github.com/user-attachments/assets/b3b655ea-8097-451f-8ac0-57673aac13eb" />
+<img width="1184" height="2547" alt="1001119517" src="https://github.com/user-attachments/assets/c7a7010c-96f0-4f05-bf02-9e75f267c62c" />
+<img width="1184" height="2547" alt="1001119518" src="https://github.com/user-attachments/assets/97e22fbf-4999-456a-ade2-4aa300c43caf" />
+<img width="1184" height="2547" alt="1001119520" src="https://github.com/user-attachments/assets/eefcce3a-d5b4-496e-991d-e901966f3bec" />
+<img width="1184" height="2547" alt="1001119521" src="https://github.com/user-attachments/assets/071bcc23-a018-439d-bd10-52dc267af9ef" />
+<img width="2400" height="1080" alt="1001119522" src="https://github.com/user-attachments/assets/14ed8386-7de9-4df3-a66f-ee429cb8563a" />
+<img width="1308" height="2813" alt="1001119509" src="https://github.com/user-attachments/assets/9f035b53-9daf-45e1-a752-10fde7eb975a" />
+<img width="2400" height="1080" alt="1001119524" src="https://github.com/user-attachments/assets/4c37c3e0-fc10-4c3e-812d-7f70b4b72044" />
+<img width="1308" height="2813" alt="1001119505" src="https://github.com/user-attachments/assets/55e5a78e-859b-42fe-85c0-b6a39f5d08b4" />
+<img width="1308" height="2813" alt="1001119507" src="https://github.com/user-attachments/assets/36612eaa-2c03-4603-833a-787d0b0a5e70" />
+<img width="1308" height="2813" alt="1001119526" src="https://github.com/user-attachments/assets/0ad95683-e0f2-4fe7-b559-87dc8f15c8f0" />
+<img width="1308" height="2813" alt="1001119528" src="https://github.com/user-attachments/assets/41f7febc-d9b0-4d08-89da-b28242142af7" />
+<img width="1184" height="2547" alt="1001119510" src="https://github.com/user-attachments/assets/fb774a48-c596-4707-814e-3063e66d474f" />
+<img width="1184" height="2547" alt="1001119512" src="https://github.com/user-attachments/assets/240200db-46be-436b-b17e-1bf623465159" />
+<img width="1184" height="2547" alt="1001119513" src="https://github.com/user-attachments/assets/56e04d17-f6d9-4b4a-ae8a-bdc5e4ff2614" />
+<img width="1184" height="2547" alt="1001119514" src="https://github.com/user-attachments/assets/1d48c5a9-e319-4c8a-a2a4-11a438f7e1ff" />
+<img width="1184" height="2547" alt="1001119515" src="https://github.com/user-attachments/assets/a67eda02-840f-48c2-bc6d-e8b025680918" />
 
-<img width="1308" height="2813" alt="Screenshot_2026-04-17-15-41-11-464_com miui securitycenter-edit" src="https://github.com/user-attachments/assets/868e66e8-9a41-45e7-80fd-a91dc78b5297" />
 
 
 
@@ -26,20 +37,7 @@ HyperOS Security Center modified by [Kashi](https://t.me/kakashi1v1).
 - Download from the [releases page](https://github.com/Mods-Center/HyperOS-Security-Center/releases)
 
 ### Instructions
-- Download the zip file and flash it in Magisk.
+- Download the zip file and flash it in Magisk and if you are using KSU then flash a mount module before that
 - Reboot your device.
 - Enjoy!
 
-### Changelog
-- Added media function in game turbo
-- Enabled incognito tile for global users
-- Hide apps function can hide system apps as well
-- Added screen battery consumption, and new information in battery section
-- Removed restriction of wifi access management for system apps
-- Unlocked FBO
-- Removed the Root detection service
-- Removed sim or Xiaomi account dependency 
-- Rest is same as previous version of mod
-
-### Note
-- Users with Global/CN ROMs based on Android 14 or above are required to disable apk vertification first.
