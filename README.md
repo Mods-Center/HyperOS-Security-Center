@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - **Sidebar**: clipboard and Google Circle to Search shortcuts, saved phrases, two-column layout
 - **Video toolbox**: sleep timer, block heads-up notifications, touch lock
 - **Battery**: custom charging-limit percentage, battery temperature, number of charges today
@@ -23,17 +23,17 @@
 - Root and Mi account restrictions removed, FBO unlocked
 - Translations for Russian, Ukrainian, Indonesian, Turkish and Vietnamese
 
-## 📋 Requirements
+## Requirements
 - HyperOS
 - Magisk, or KernelSU with a mount module
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Security-Center/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. On KernelSU, flash a mount module before this one.
 4. Reboot your device.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d8829d98-0b0c-44ab-959b-284213af5dd4" width="23%" alt="Security Center"/>
   <img src="https://github.com/user-attachments/assets/a990de79-2c80-4545-8ffb-6525c2e98822" width="23%" alt="Security Center"/>
@@ -64,8 +64,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Security-Center/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Security-Center/issues)
 
 </div>
